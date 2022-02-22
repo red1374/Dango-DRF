@@ -1,0 +1,17 @@
+[{
+    "first_name": "Александр",
+    "last_name": "Пушкин",
+    "birthday_year" : 1799
+},{
+    "first_name": "Анджей",
+    "last_name": "Сапковски",
+    "birthday_year" : 1975
+},{
+    "first_name": "Эдгар",
+    "last_name": "Райс Берроуз",
+    "birthday_year" : 1890
+},{
+    "first_name": "Владимир",
+    "last_name": "Ленин",
+    "birthday_year" : 1915
+}]

@@ -1,0 +1,21 @@
+[{
+    "username": "user1",
+    "first_name": "Пользователь 1",
+    "last_name": "",
+	"email": "user1@pleshakov.org"
+},{
+    "username": "user2",
+    "first_name": "Пользователь 2",
+    "last_name": "",
+	"email": "user2@pleshakov.org"
+},{
+    "username": "user3",
+    "first_name": "Пользователь 3",
+    "last_name": "",
+	"email": "user3@pleshakov.org"
+},{
+    "username": "user4",
+    "first_name": "Пользователь 4",
+    "last_name": "",
+	"email": "user4@pleshakov.org"
+}]
